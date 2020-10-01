@@ -125,4 +125,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Test
   <image href="https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png" height="200" width="200"/>
 </svg>
 
-<img src="https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg">
+<img src="https://www.flaticon.com/free-icon/play_183607">
