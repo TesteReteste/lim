@@ -31,6 +31,21 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 
 ### :hammer: **Ferramentas utilizadas**
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [Styled-components](https://styled-components.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
+- [React Switch](https://www.npmjs.com/package/react-switch)
+---
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
