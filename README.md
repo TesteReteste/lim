@@ -25,6 +25,8 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 ### Editor de Código
 * [Visual Studio Code](https://code.visualstudio.com/)
 
+### :hammer: **Ferramentas utilizadas**
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
