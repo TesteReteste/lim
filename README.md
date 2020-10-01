@@ -117,4 +117,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Test
 </table>
 
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=FastFeet&uri=https%3A%2F%2Fraw.githubusercontent.com%2FARTHURPC03%2FFastFeet%2Fmaster%2FInsomnia.json)
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](http://wa24.gear.host/api/tabelaapi/)
