@@ -153,3 +153,14 @@ Link Attributes:
 (css)
 h1 {color:red;}
 ...
+
+
+<div class="panel panel-success">
+**Do's**
+{: .panel-heading}
+<div class="panel-body">
+
+THINGS TO DO
+
+</div>
+</div>
