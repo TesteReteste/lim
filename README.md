@@ -20,3 +20,6 @@ This project was developed with the following technologies:
 - Bootstrap 3;
 - Windows Azure (para deployment do projeto);
 - .NET Framework 4.5.
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/TesteReteste/lim/blob/master/LICENSE) for more information.
