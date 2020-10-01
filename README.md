@@ -21,6 +21,13 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
   <a src="http://wa24.gear.host/api/tabelaapi/">app</a>
 </div>
 
+
+<p align="center">
+  <a href="https://githubexplorerapc.netlify.app/" target="_blank">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
+  </a>
+</p>
+
 ## :camera: Demo
 
 ---
