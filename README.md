@@ -117,4 +117,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Test
 </table>
 
 
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](http://wa24.gear.host/api/tabelaapi/)
+[![Run project}](https://insomnia.rest/images/run.svg)](http://wa24.gear.host/api/tabelaapi/)
