@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbps;&nbps;&nbps;|&nbps;&nbps;&nbps;
+  <a href=""></a>&nbps;&nbps;&nbps;|&nbps;&nbps;&nbps;
+  <a href=""></a>
+</p>
 # Projeto: limsteam
 
 Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6.
