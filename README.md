@@ -11,6 +11,12 @@ Desenvolver uma aplicação utilizando...
 
 ---
 
+# 💻 About the project
+
+Desenvolver uma aplicação utilizando...
+
+---
+
 # 💻 Projeto: limsteam
 
 Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6.
