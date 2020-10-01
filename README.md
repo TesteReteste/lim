@@ -34,6 +34,8 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
   <img src="./github/API.png" alt="API">
 </div>
 
+![api](https://github.com/TesteReteste/lim/blob/master/github/API.gif)
+
 ---
 
 
