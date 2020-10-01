@@ -4,13 +4,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-## :camera: Demonstração
 
-<div align="center" >
-  <img src="./github/SignGoBarber.gif" alt="demo-web" height="425">
-  <img src="./github/WebGoBarber.gif" alt="demo-web" height="425">
-  <a src="http://wa24.gear.host/api/tabelaapi/"></a>
-</div>
 
 # 💻 Projeto: limsteam
 
@@ -18,6 +12,15 @@ Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universid
 Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
 
 Este projeto é um exemplo prático de como desenvolver uma aplicação utilizando o padrão *`MVC`* com o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
+
+## :camera: Demonstração
+
+<div align="center" >
+  <img src="./github/SignGoBarber.gif" alt="demo-web" height="425">
+  <img src="./github/WebGoBarber.gif" alt="demo-web" height="425">
+  <a src="http://wa24.gear.host/api/tabelaapi/">app</a>
+</div>
+
 
 ### Editor de Código
 * [Visual Studio Code](https://code.visualstudio.com/)
