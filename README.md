@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbps;&nbps;&nbps;|&nbps;&nbps;&nbps;
-  <a href=""></a>&nbps;&nbps;&nbps;|&nbps;&nbps;&nbps;
-  <a href=""></a>
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href=""></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 # Projeto: limsteam
 
