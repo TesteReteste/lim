@@ -1,5 +1,17 @@
-# lim
+# Projeto: limsteam
+
+Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6.
+Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
 
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
+
+- Visual Studio 2017
+- Asp.NET Core 2.0;
+- Entity Framework 6;
+- Code First;
+- SQL Server Management 2014;
+- Bootstrap 3;
+- Windows Azure (para deployment do projeto);
+- .NET Framework 4.5;
