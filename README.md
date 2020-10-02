@@ -28,14 +28,16 @@
 </h4>
 
 
-<div align="center" {: font-size= 60px;}>
+<div align="center" class="texto">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </div>
 
-
+.texto {
+    color: #F00;
+}
 
 
 # 💻 Sobre o desafio
