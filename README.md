@@ -28,16 +28,6 @@
 </h4>
 
 
-
-{:.nameofclass}
-paragraph is here
-
-.nameofclass{
-   color: #000;
-  }
-
-
-
 # 💻 Sobre o desafio
 
 Desenvolver uma aplicação utilizando...
