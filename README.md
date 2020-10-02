@@ -28,6 +28,22 @@
 </h4>
 
 
+// resets
+s { text-decoration:none; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
+Veja também: Como mudar o estilo da tag em para ficar em negrito em vez de itálico
+
+Em seguida, no seu texto de remarcação
+
+~~This is green~~
+_this is blue_
+
+
 # 💻 Sobre o desafio
 
 Desenvolver uma aplicação utilizando...
