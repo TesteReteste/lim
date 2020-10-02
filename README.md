@@ -46,6 +46,13 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
   <img src="./github/API.png" alt="API">
 </div>
 
+
+<p align="center">
+  <a href="http://wa24.gear.host/api/tabelaapi/">
+    <img alt="Demo of app" src="https://github.com/TesteReteste/lim/blob/master/github/goToDemo.png">
+  </a>
+</p>
+
 ![api](https://github.com/TesteReteste/lim/blob/master/github/API.gif)
 
 ---
