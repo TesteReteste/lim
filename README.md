@@ -35,6 +35,14 @@
   <a href="#memo-license">License</a>
 </div>
 
+{:.nameofclass}
+paragraph is here
+Então, no seu arquivo css, você define o css assim:
+
+.nameofclass{
+   color: #000;
+  }
+
 .texto {
     color: #F00;
 }
