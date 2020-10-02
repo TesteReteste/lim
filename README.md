@@ -28,24 +28,14 @@
 </h4>
 
 
-<div align="center" class="texto">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</div>
 
 {:.nameofclass}
 paragraph is here
-Então, no seu arquivo css, você define o css assim:
 
 .nameofclass{
    color: #000;
   }
 
-.texto {
-    color: #F00;
-}
 
 
 # 💻 Sobre o desafio
