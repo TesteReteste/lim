@@ -28,6 +28,8 @@
 </h4>
 
 
+s {text-decoration:none; color: green}
+
 // resets
 s { text-decoration:none; } //strike-through
 em { font-style: normal; font-weight: bold; } //italic emphasis
