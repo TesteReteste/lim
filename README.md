@@ -28,22 +28,11 @@
 </h4>
 
 
-s {text-decoration:none; color: green}
-
-// resets
-s { text-decoration:none; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
-
-
-// colors
-s { color: green }
-em { color: blue }
-Veja também: Como mudar o estilo da tag em para ficar em negrito em vez de itálico
-
-Em seguida, no seu texto de remarcação
-
-~~This is green~~
-_this is blue_
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
 
 
 # 💻 Sobre o desafio
