@@ -32,7 +32,7 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 
 ![api](https://github.com/TesteReteste/lim/blob/master/github/API.gif)
 
-## Editor de Código
+## IDE
 ✔️ [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :rocket: Technologies
