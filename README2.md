@@ -17,7 +17,7 @@
 
 ---
 
-# 💻 About the project
+## 💻 About the project
 
 Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6.
 Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
@@ -26,7 +26,7 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 
 <br/>
 ---
-# :camera: Demo
+## :camera: Demo
 
 <p align="center">
   <a href="http://wa24.gear.host/api/tabelaapi/">
