@@ -6,7 +6,6 @@
 </h4>
 
 <br/>
----
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -15,6 +14,8 @@
 </p>
 
 <br/>
+
+---
 
 # 💻 About the project
 
