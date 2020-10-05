@@ -15,8 +15,6 @@
 
 <br/>
 
----
-
 ## 💻 About the project
 
 Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6.
@@ -38,11 +36,10 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 
 <br/>
 
----
-
-
 ## Editor de Código
 ✔️ [Visual Studio Code](https://code.visualstudio.com/)
+
+<br/>
 
 ## :rocket: Technologies
 
@@ -64,12 +61,17 @@ This project was developed with the following technologies:
 
 ✔️.NET Framework 4.5.
 
+<br/>
 
 ## :warning: Prerequisites
 
 In order to use and test the mobile app on a simulator....
 
-## :information_source: How to Use
+<br/>
+
+## :information_source: Get started
+
+<br/>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/TesteReteste/lim/blob/master/LICENSE) for more information.
