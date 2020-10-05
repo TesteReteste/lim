@@ -74,25 +74,6 @@ This project was developed with the following technologies:
 ✔️.NET Framework 4.5.
 
 
-- Visual Studio 2017;
-- Asp.NET Core 2.0;
-- Entity Framework 6;
-- Code First;
-- SQL Server Management 2014;
-- Bootstrap 3;
-- Windows Azure (para deployment do projeto);
-- .NET Framework 4.5.
-
-
-- Visual Studio 2017;
-- Asp.NET Core 2.0;
-- Entity Framework 6;
-- Code First;
-- SQL Server Management 2014;
-- Bootstrap 3;
-- Windows Azure (para deployment do projeto);
-- .NET Framework 4.5.
-
 ## :warning: Prerequisites
 
 In order to use and test the mobile app on a simulator....
