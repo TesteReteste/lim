@@ -13,7 +13,6 @@
   </a>
 </p>
 
-<br/>
 
 ## 💻 About the project
 
@@ -22,7 +21,6 @@ Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso d
 
 Este projeto é um exemplo prático de como desenvolver uma aplicação utilizando o padrão *`MVC`* com o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
-<br/>
 
 ## :camera: Demo
 
@@ -34,12 +32,8 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 
 ![api](https://github.com/TesteReteste/lim/blob/master/github/API.gif)
 
-<br/>
-
 ## Editor de Código
 ✔️ [Visual Studio Code](https://code.visualstudio.com/)
-
-<br/>
 
 ## :rocket: Technologies
 
@@ -61,17 +55,11 @@ This project was developed with the following technologies:
 
 ✔️.NET Framework 4.5.
 
-<br/>
-
 ## :warning: Prerequisites
 
 In order to use and test the mobile app on a simulator....
 
-<br/>
-
 ## :information_source: Get started
-
-<br/>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/TesteReteste/lim/blob/master/LICENSE) for more information.
