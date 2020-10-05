@@ -58,7 +58,7 @@ This project was developed with the following technologies:
 
 In order to use and test the mobile app on a simulator....
 
-## :information_source: Get started
+## :information_source: Getting started
 
 Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6. Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
 
