@@ -13,6 +13,7 @@
   </a>
 </p>
 
+<br/>
 
 # 💻 About the project
 
@@ -20,6 +21,8 @@ Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universid
 Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
 
 Este projeto é um exemplo prático de como desenvolver uma aplicação utilizando o padrão *`MVC`* com o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
+
+<br/>
 
 # :camera: Demo
 
