@@ -1,3 +1,14 @@
+
+
+
+# 💻 About the project
+
+Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6.
+Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
+
+Este projeto é um exemplo prático de como desenvolver uma aplicação utilizando o padrão *`MVC`* com o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
+
+
 <h4 align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,14 +23,6 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
-
-
-# 💻 About the project
-
-Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6.
-Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
-
-Este projeto é um exemplo prático de como desenvolver uma aplicação utilizando o padrão *`MVC`* com o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
 
 ## :camera: Demo
