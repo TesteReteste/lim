@@ -25,7 +25,7 @@ Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso d
 Este projeto é um exemplo prático de como desenvolver uma aplicação utilizando o padrão *`MVC`* com o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
 <br/>
-
+---
 # :camera: Demo
 
 <p align="center">
