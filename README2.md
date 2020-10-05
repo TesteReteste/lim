@@ -26,7 +26,7 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 
 <p align="center">
   <a href="http://wa24.gear.host/api/tabelaapi/">
-    <img alt="Demo of app" src="https://github.com/TesteReteste/lim/blob/master/github/goToDemo.png">
+    <img alt="Demo of app" src="https://github.com/TesteReteste/lim/blob/master/github/goToDemo2.png">
   </a>
 </p>
 
