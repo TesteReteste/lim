@@ -26,7 +26,6 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 
 <br/>
 
----
 ## :camera: Demo
 
 <p align="center">
@@ -42,10 +41,10 @@ Este projeto é um exemplo prático de como desenvolver uma aplicação utilizan
 ---
 
 
-# Editor de Código
+## Editor de Código
 ✔️ [Visual Studio Code](https://code.visualstudio.com/)
 
-# :rocket: Technologies
+## :rocket: Technologies
 
 This project was developed with the following technologies:
 
@@ -66,11 +65,11 @@ This project was developed with the following technologies:
 ✔️.NET Framework 4.5.
 
 
-# :warning: Prerequisites
+## :warning: Prerequisites
 
 In order to use and test the mobile app on a simulator....
 
-# :information_source: How to Use
+## :information_source: How to Use
 
-# :memo: License
+## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/TesteReteste/lim/blob/master/LICENSE) for more information.
