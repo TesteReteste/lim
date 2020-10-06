@@ -6,7 +6,7 @@
   </br>
   <a href="#information_source-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">Licença</a>
+  <a href="#Licença">Licença</a>
 </h4>
 
 <br/>
