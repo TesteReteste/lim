@@ -54,32 +54,6 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ![api](https://github.com/TesteReteste/lim/blob/master/github/API.gif)
 
-## 💻 IDE
-✔️ [Visual Studio Code](https://code.visualstudio.com/)
-
-## :rocket: Technologies
-
-This project was developed with the following technologies:
-
-✔️ Visual Studio 2017;
-
-✔️ Asp.NET Core 2.0;
-
-✔️ Entity Framework 6;
-
-✔️ Code First;
-
-✔️ SQL Server Management 2014;
-
-✔️ Bootstrap 3;
-
-✔️ Windows Azure (para deployment do projeto);
-
-✔️.NET Framework 4.5.
-
-## :warning: Prerequisites
-
-In order to use and test the mobile app on a simulator....
 
 ## :information_source: Getting started
 
