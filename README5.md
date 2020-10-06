@@ -22,7 +22,7 @@ Este é um projeto básico de uma aplicação utilizando o padrão *`MVC`*, cria
 É utilizado um padrão que define um conjunto de práticas para criar e consumir a Web APIs, conhecido como [OData](https://docs.microsoft.com/en-us/odata/) (Open Data Protocol). Por meio das conveções da URL do OData, pode-se expor uma API, tornando-a mais flexível e fácil para consultas específicas, requisitadas pelo cliente da API.                                              
 A API fará conexão com um banco de dados, o [SQL Server](https://www.microsoft.com/pt-br/sql-server/), com sua estrutura criada e populada previamente.
 
-## :warning: Prerequisites
+## Prerequisites
 
 In order to use and test the mobile app on a simulator....
 
