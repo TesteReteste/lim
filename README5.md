@@ -16,12 +16,12 @@
 </p>
 
 
-# 👨‍💻 About the project 
+# Sobre o projeto
 
-Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6.
-Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
+Este é um projeto básico de uma aplicação utilizando o padrão *`MVC`*, criando uma WebAPI usando o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
+É utilizado um padrão que define um conjunto de práticas para criar e consumir a Web APIs, conhecido como OData (Open Data Protocol). Por meio do conveções da URL do OData, pode-se export uma uma API, tornando-a mais flexível e fácil para consultas específicas, requisitadas pelo cliente da API. 
+A API fará conexão com um banco de dados, o SQL Server, com sua estrutura criada e populada previamente.
 
-Este projeto é um exemplo prático de como desenvolver uma aplicação utilizando o padrão *`MVC`* com o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 
 ## :camera: Demo
 
