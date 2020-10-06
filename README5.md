@@ -27,6 +27,7 @@ A API fará conexão com um banco de dados, o [SQL Server](https://www.microsoft
 
 - [Visual Studio 2019](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
+- [Windows](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
 
 # Tecnologias
 
