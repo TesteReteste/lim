@@ -33,14 +33,14 @@ A API fará conexão com um banco de dados, o [SQL Server](https://www.microsoft
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Visual Studio 2019](#)
-- [Asp.NET Core 3.1](#)
-- [SQL Server Management Studio (SSMS)](#)
-- [SQL Server](#)
-- [HTML5](#)
-- [CSS3](#)
-- [Javascript](#)
-- [C#](#)
+- [Visual Studio 2019](#Pré-requisitos)
+- [Asp.NET Core 3.1](#Pré-requisitos)
+- [SQL Server Management Studio (SSMS)](#Pré-requisitos)
+- [SQL Server](#Pré-requisitos)
+- [HTML5](#Pré-requisitos)
+- [CSS3](#Pré-requisitos)
+- [Javascript](#Pré-requisitos)
+- [C#](#Pré-requisitos)
 - [OData](#Pré-requisitos)
 
 ## :camera: Demo
