@@ -85,5 +85,5 @@ In order to use and test the mobile app on a simulator....
 
 Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6. Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
 
-## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/TesteReteste/lim/blob/master/LICENSE) for more information.
+# Licença
+Este projeto está sob a licença do MIT. Consulte a [LICENÇA](https://github.com/TesteReteste/lim/blob/master/LICENSE) para obter mais informações.
