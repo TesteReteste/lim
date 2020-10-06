@@ -5,6 +5,7 @@
   
   </br>
   <a href="#information_source-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </h4>
 
@@ -43,7 +44,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [C#](#Pré-requisitos)
 - [OData](#Pré-requisitos)
 
-## :camera: Demo
+# Demonstração
 
 <p align="center">
   <a href="http://wa24.gear.host/api/tabelaapi/">
