@@ -1,7 +1,7 @@
 <h4 align="center"> 
   <a href="#sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#tecnologias">Tecnologias e ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   
   </br>
   <a href="#information_source-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -29,12 +29,17 @@ A API fará conexão com um banco de dados, o [SQL Server](https://www.microsoft
 - [SQL Server Management Studio (SSMS)](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
 - [Windows](https://docs.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
 
-# Tecnologias
+# Tecnologias e ferramentas
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
--
--
+- Visual Studio 2019
+- Asp.NET Core 3.1
+- SQL Server Management Studio (SSMS)
+- SQL Server
+- HTML5
+- CSS3
+- Javascript
 
 ## :camera: Demo
 
