@@ -41,7 +41,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS3](#)
 - [Javascript](#)
 - [C#](#)
-- [OData](#)
+- [OData](#Pré-requisitos)
 
 ## :camera: Demo
 
