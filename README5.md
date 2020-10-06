@@ -24,7 +24,7 @@ A API fará conexão com um banco de dados, o [SQL Server](https://www.microsoft
 
 ## Pré-requisitos
 
-In order to use and test the mobile app on a simulator....
+- Visual Studio 2019
 
 ## :camera: Demo
 
