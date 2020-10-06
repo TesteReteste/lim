@@ -20,7 +20,7 @@
 
 Este é um projeto básico de uma aplicação utilizando o padrão *`MVC`*, criando uma WebAPI, usando o [asp.net core 3.1.](https://dotnet.microsoft.com/download/dotnet-core/3.1).
 É utilizado um padrão que define um conjunto de práticas para criar e consumir a Web APIs, conhecido como [OData](https://docs.microsoft.com/en-us/odata/) (Open Data Protocol). Por meio das conveções da URL do OData, pode-se expor uma API, tornando-a mais flexível e fácil para consultas específicas, requisitadas pelo cliente da API.                                              
-A API fará conexão com um banco de dados, o SQL Server, com sua estrutura criada e populada previamente.
+A API fará conexão com um banco de dados, o [SQL Server](https://www.microsoft.com/pt-br/sql-server/), com sua estrutura criada e populada previamente.
 
 
 ## :camera: Demo
