@@ -31,6 +31,8 @@ A API fará conexão com um banco de dados, o [SQL Server](https://www.microsoft
 
 # Tecnologias
 
+O projeto foi desenvolvido com as seguintes tecnologias:
+
 -
 -
 
