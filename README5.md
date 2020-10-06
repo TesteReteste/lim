@@ -2,10 +2,9 @@
   <a href="#sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Tecnologias-e-ferramentas">Tecnologias e ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  
   </br>
-  <a href="#information_source-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Licença">Licença</a>
 </h4>
 
@@ -55,7 +54,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ![api](https://github.com/TesteReteste/lim/blob/master/github/API.gif)
 
 
-## :information_source: Getting started
+# Como usar
 
 Desenvolvimento do projeto para fins de estudo de cadastramento de uma Universidade fictícia chamada: Developer Universitu em Asp.Net MVC 5 & Entity Framework 6. Estou procurando seguir o mesmos padrões do tutorial do site: Asp. NET - caso da Universidade Contoso. Porém, com algumas melhorias propostas no código.
 
