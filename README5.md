@@ -24,7 +24,7 @@ A API fará conexão com um banco de dados, o [SQL Server](https://www.microsoft
 
 ## Pré-requisitos
 
-- Visual Studio 2019
+- [Visual Studio 2019](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
 ## :camera: Demo
 
